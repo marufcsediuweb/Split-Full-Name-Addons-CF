@@ -1,3 +1,6 @@
+// Copy this code and paste inside the Footer Tracking Code.
+// Installation Guide: https://www.youtube.com/watch?v=wh-q42hPJpM
+
 $(function () {
 	const $name = $('input[name="name"]');
 	const $firstName = $name.clone();
