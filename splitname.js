@@ -1,5 +1,10 @@
-// Copy this code and paste inside the Footer Tracking Code.
-// Installation Guide: https://www.youtube.com/watch?v=wh-q42hPJpM
+/* 
+	# Description: Are you looking for splitting the full name into first name and last name? This Addons will help you to accomplish that.
+	# Version: 1.0
+	# Copy this code and paste inside the Footer Tracking Code.
+	# Boom! Now you are ready to test...
+	# Installation Guide: https://www.youtube.com/watch?v=wh-q42hPJpM
+*/
 
 $(function () {
 	const $name = $('input[name="name"]');
